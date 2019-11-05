@@ -1,0 +1,12 @@
+{
+  "openapi" : "3.0.0",
+  "info" : {
+    "version" : "2.0"
+  },
+  "servers" : [ {
+    "url" : "https://virtserver.swaggerhub.com/Service-NSW/VehicleRegsitrationAPIProduct/2.0",
+    "description" : "SwaggerHub API Auto Mocking"
+  } ],
+  "paths" : { },
+  "components" : { }
+}
